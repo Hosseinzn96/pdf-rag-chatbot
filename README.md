@@ -43,17 +43,6 @@ The system uses **semantic search + an open-source LLM** to generate **accurate,
 
 ---
 
-## ⚠️ Limitations (Important)
-
-- 🔁 **Single-user only** (global state)
-- 💾 **No persistence** (vector store resets on restart)
-- 🧵 **Not thread-safe**
-- 🧠 **Conversation memory grows indefinitely**
-
-This project is intended as a **local demo / learning project**, **not a production system**.
-
----
-
 ## 🚀 Possible Improvements
 
 - ✅ Persistent **Chroma** storage  

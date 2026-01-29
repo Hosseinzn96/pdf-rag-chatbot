@@ -31,6 +31,15 @@ The system uses **semantic search + an open-source LLM** to generate **accurate,
 7. Answer generation with **Flan-T5**
 
 ---
+## 📁 Project Structure
+
+```text
+RAG Project/
+│
+├── app.py                # Gradio UI and user interaction
+├── pdf_chatbot.py        # Core RAG logic (PDF → embeddings → QA)
+└── README.md             # Project documentation
+```
 
 ## 🧠 How It Works (High Level)
 

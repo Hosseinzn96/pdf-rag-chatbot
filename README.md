@@ -8,7 +8,7 @@ The system combines **semantic retrieval** with an **open-source LLM** to produc
 
 ## 🖥️ Application Screenshot
 
-![PDF ChatBot UI](./assets/app_screenshot.png)
+![PDF ChatBot UI](./app_screenshot.png)
 
 ---
 
